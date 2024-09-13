@@ -1,5 +1,5 @@
 # F1
-F1 Data Analysis
+## F1 Data Analysis
 
 Formula 1 (F1) is a high-octane sport that blends cutting-edge technology, strategy, and raw speed. Each race weekend offers a dynamic and complex interplay of factors that can influence the outcome, from weather conditions and track characteristics to driver performance and team strategies. Understanding these variables can provide valuable insights into the nuances of the sport, making data analysis a crucial tool for teams, fans, and analysts alike.
 
