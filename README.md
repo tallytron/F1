@@ -1,7 +1,7 @@
 # F1
 ## F1 Data Analysis
 
-![alt text](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcharles-leclerc-ferrari-sf-24-and-sergio-perez-red-bull-v0-ci3ipd1hqepd1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Da442f8638b7f710362da71a25371224353f7777f)
+![CL   SP](https://github.com/user-attachments/assets/ebb206dc-5cc0-49f7-b524-87182b0358a8)
 
 Formula 1 (F1) is a high-octane sport that blends cutting-edge technology, strategy, and raw speed. Each race weekend offers a dynamic and complex interplay of factors that can influence the outcome, from weather conditions and track characteristics to driver performance and team strategies. Understanding these variables can provide valuable insights into the nuances of the sport, making data analysis a crucial tool for teams, fans, and analysts alike.
 
